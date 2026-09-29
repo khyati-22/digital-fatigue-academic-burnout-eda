@@ -203,3 +203,16 @@ By combining data cleaning, descriptive analysis, visualization, relationship an
 
 This project is intended for **academic and educational purposes**. The analysis is based on questionnaire responses collected for this study and reflects the characteristics of the sample rather than the entire student population.
 
+---
+
+## Author
+
+Khyati Kukreja
+
+MBA Candidate | Finance Analytics & Marketing Analytics
+
+Passionate about transforming data into actionable business insights through analytics, visualization, and strategic decision-making.
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
